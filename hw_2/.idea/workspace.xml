@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3729dbd8-68ed-47e6-a0af-f41a8b1d6af5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hw_1/BitOperations/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/BitOperations/include/bit_operations.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/BitOperations/src/bit_operations.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/BitOperations/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/BitOperations/tests/tests.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/RC4/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/RC4/client.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/RC4/files.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/RC4/ipc_manager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/RC4/protocol.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/RC4/rc4.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/RC4/server.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/RC4/tests.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/pBlock/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/pBlock/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/pBlock/src/permutation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/pBlock/src/permutation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/pBlock/tests/test_permutation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/sBlock/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/sBlock/include/substitution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/sBlock/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/sBlock/src/substitution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_1/sBlock/tests/test_substitution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_3/block_cipher/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_3/block_cipher/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_3/block_cipher/crypto.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_3/block_cipher/crypto.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_3/block_cipher/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_3/block_cipher/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_3/block_cipher/tests.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bQ04wHkF" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3KNhh11ObyAQUkUBREPWn6nXRyp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/sarvar/c++/Coding_And_Information_Protection/hw_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../hw_3/block_cipher" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3729dbd8-68ed-47e6-a0af-f41a8b1d6af5" name="Changes" comment="" />
+      <created>1791404048564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791404048564</updated>
+      <workItem from="1791404049712" duration="969000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
